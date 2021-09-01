@@ -15,3 +15,9 @@ If you created any sources before, you will see something like this.
 ![](./.github/assets/preview.png)
 
 Otherwise you will need to create them on [app.xkit.co/sources](https://app.xkit.co/sources).
+
+### Learn more
+
+To learn more about Xkit, visit the [Xkit docs](https://docs.xkit.co/).
+
+Also there is [xkit-next](https://github.com/xkit-co/xkit-next), which is an example of how to use the Xkit embedded catalog in [Next.js](https://nextjs.org/).
